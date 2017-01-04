@@ -1,0 +1,15 @@
+{
+  "name": "node-js-firebase-ihome",
+  "version": "1.0.0",
+  "description": "Firebase iHome Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "echo \"# iHomeWebApp\" >> README.md"
+  },
+  "author": "",
+  "license": "ISC"
+}
